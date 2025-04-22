@@ -3,18 +3,20 @@
 ---
 
 ## 📅 Date and Time  
-**Insert Date, Time**
+**04/22/2025**
 
 ---
 
 ## 👥 Participants  
 - Participant 1: Saumya  
-- Participant 2: (Add name if needed)  
+- Participant 2: Samantha  
 
 ---
 
 ## 📝 Meeting Type  
-e.g., Weekly Agile Standup / Sprint Planning / Lab Check-in  
+- Weekly Agile Standup 
+- Sprint Planning
+- Lab Check-in  
 
 ---
 
@@ -29,7 +31,7 @@ e.g., Weekly Agile Standup / Sprint Planning / Lab Check-in
 | Participants        | Priorities since we last met                       | Priorities until we meet again                     |
 |---------------------|----------------------------------------------------|----------------------------------------------------|
 | Saumya              | Implemented external CSS and linked stylesheet     | Add internal + inline styling and validate CSS     |
-| Teammate (Optional) | e.g., Finalized layout grid                        | e.g., Begin writing final reflection or checklist  |
+| Samantha            | Finalized layout grid                              |  Begin writing final reflection or checklist       |
 
 ---
 
