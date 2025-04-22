@@ -1,3 +1,3 @@
-# Lab 2 - Starter
+# Lab 3 
 
-Live Site: https://ssadh123.github.io/Lab2_Starter/
+Live Site: https://ssadh123.github.io/sp25-cse110-lab3/
